@@ -1,0 +1,19 @@
+.menu-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.main-container{
+    display: flex;
+    justify-content: space-between;
+}
+.cart-container{
+    align-items: center;
+    margin-top: 150px;
+}
+.selected-players{
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
